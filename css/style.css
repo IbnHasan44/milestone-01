@@ -225,7 +225,7 @@ section.infoMain {
    Footer
 =========== */
 
-section.footerMain {
+    .footerMain {
     display: flex;
     padding: 4.8rem 3rem 3rem;
     align-items: center;
